@@ -1,8 +1,18 @@
-# MET landing page
-This is landing page for the Metropolitan museum of art.
+# The Met landing page
 
-Page has adaptive layout and retina images
+This is my landing about The Metropolitan Museum of Art.
+On this page you can see work schedule, expositions prewiew, online expositions, adress and contacts of museum
 
-Technologies: HTML, SCSS
+# Main technologies:
+  - html, scss, js
+  - google fonts, favicon generator
+  - grid, flexbox
+  - media queries
+  - retina images
+  - positioning
 
-To see the page follow the [DEMO](https://max-rozzhalovets.github.io/MET_landing_page/) link
+# Source and demo:
+  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+  - [DEMO LINK](https://max-rozzhalovets.github.io/MET_landing_page/)
+
+Hope you like it, have a good day!
